@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSOM1=
-PERSON2=
+PERSOM1=$1
+PERSON2=$2
 
 echo "$PERSON1 :: hello $PERSON2"
 echo "$PERSON2 :: yes i am good $PERSON1"
